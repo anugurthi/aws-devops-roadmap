@@ -1,6 +1,6 @@
 # AWS DevOps Learning Roadmap 2026
 
-![AWS DevOps Roadmap](./aws_devops_roadmap.png)
+![AWS DevOps Roadmap](./assets/aws-devops-roadmap-2026.png)
 
 A comprehensive, structured guide to mastering AWS DevOps practices with hands-on projects, free resources, and real-world examples.
 
