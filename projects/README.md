@@ -19,4 +19,6 @@ Practical labs to reinforce what you learn in each service deep dive. Every proj
 | 09 | Kubernetes Workload on EKS | [project-09-eks](./project-09-eks/) |
 | 10 | Production Database with RDS Multi-AZ | [project-10-rds](./project-10-rds/) |
 
+Each folder now includes architecture blueprints, implementation steps, validation checklists, and stretch goals to push your learning. Follow the projects sequentially or cherry-pick the ones that match your role requirements.
+
 Start with project 01 as soon as you finish the EC2 and VPC deep dives to cement the core infrastructure concepts.
